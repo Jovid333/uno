@@ -1,2 +1,2 @@
 # uno
-University notification for cross-platformed mobile devices.
+UNO (University notifier application) for cross-platformed mobile devices.
